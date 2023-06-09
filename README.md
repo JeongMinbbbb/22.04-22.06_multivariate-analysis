@@ -18,4 +18,4 @@
 ***
 ### Team Project
 
-#### Teaming  3명 송민철, 배정민, 정유정 ***(in Dongguk_University_Stat)***
+#### Teaming  4명 배정민, 송민철, 신준식, 정유정 ***(in Dongguk_University_Stat)***

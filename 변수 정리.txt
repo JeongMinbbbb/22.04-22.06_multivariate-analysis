@@ -1,0 +1,62 @@
+1. stat0525
+- 출처 : Baseball Savant(https://baseballsavant.mlb.com)
+-  2022년 5월 26일 기준, 2015년부터 2022년까지 100타석 이상의 타자들의 타격 스탯캐스트 관련 기록 
+2. FanGraphs_wr,와 FanGraphs_value
+- 출처 : Fangraphs(https://www.fangraphs.com)
+- 2022년 5월 20일 기준, 2015년부터 2022년까지 100타석 이상의 타자들의 타격 관련 기록
+
+1. 스탯 캐스트(18)
+
+1)컨택(6)
+xBA - 기대 타율
+Sweet Spot % - 정타 확률
+Zone Swing & Miss % (-) - 존 타격 컨택 실패
+In Zone Contact %  - 존 타격 컨택
+Out of Zone Contact % - 존 밖 컨택
+Out of Zone Swing & Miss % (-) - 존 밖 컨택 실패
+
+2)파워(5)
+xSLG - 기대 장타율
+xISO - 기대 순수 장타율
+AVG EV - 평균 출구 속도
+AVG LA - 평균 발사 각도
+Barrel% - 배럴 타구 비율
+
+3)선구안(4)
+xwOBA - 기대 가중 출루율
+xOBP - 기대 출루율
+Zone Swing % - 존 스윙
+Out of Zone Swing % (-) - 존 밖 스윙
+
+4)주루(3)
+bolts - 30feet/sec 이상 기록 횟수
+Hp to 1B - 홈에서 1루
+Sprint speed - 
+
+2. STANDARD(9)
+age
+
+1)컨택(2)
+AVG - 타율
+OPS - obp + slg
+
+2)파워(2)
+SLG - 장타율
+ISO - 순수 장타율
+
+3)선구안(3)
+K%% - 삼진 비율
+BB% - 볼넷 비율
+OBP - 출루율
+
+4)주루(1)
+SB - 도루
+
+2. 팬그래프
+- HR : 홈런 개수
+- K% : 삼진 확률 (%) 
+- BABIP : 인플레이 타율
+- Batting : 평균에 비해서 타격으로 얻은 점수
+- Base running : 평균에 비해서 주루로 얻은 점수
+
+
